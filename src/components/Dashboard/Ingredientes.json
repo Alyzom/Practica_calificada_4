@@ -1,0 +1,23 @@
+{
+    "cocina": [
+      {
+        "nombre": "Pan superior"
+      },
+      {
+        "nombre": "Pan inferior"
+      },
+      {
+        "nombre": "Mortadella"
+      },
+      {
+        "nombre": "Lechuga"
+      },
+      {
+        "nombre": "Tomate"
+      },
+      {
+        "nombre": "Salsa secreta"
+      }
+    ]
+}
+  
